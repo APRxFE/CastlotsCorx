@@ -1,5 +1,4 @@
 import 'rxjs/Rx'
-
 import { NgModule } from '@angular/core'
 
 import { CastlotsCorx } from './castlotsCorx'
